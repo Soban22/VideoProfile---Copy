@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import profile from '../assets/profile.jpg';
 import './maincard.css';
+import Asset1 from '../assets/asset1.svg'
 
 const MainCard = () => {
   const [isActive, setIsActive] = useState(false);
@@ -11,7 +12,17 @@ const MainCard = () => {
 
   return (
     <div className="main">
+
+      <div id="companies-title">
+        <img src={Asset1} alt=""/>
+        <span>Click Here</span>
+        <img src={Asset1} alt=""/>
+      </div>
+
+
       <div className="container">
+        
+      
         <div className="wrapper">
           <img
             src={profile}
@@ -52,7 +63,7 @@ const MainCard = () => {
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/soban-khan-6b571b242/">
+            <a href="https://www.linkedin.com/in/soban-khan-6b571b242/tt">
               <i className="fa-brands fa-linkedin"></i>
             </a>
           </li>
