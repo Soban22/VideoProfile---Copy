@@ -42,17 +42,17 @@ const MainCard = () => {
         </div>
         <div className="icons">
           <li>
-            <a href="https://www.instagram.com/">
+            <a href="https://www.instagram.com/mohammad.soban10?igsh=ZWVvYnI4a3F2ZHdi&utm_source=qr">
               <i className="fa-brands fa-square-instagram"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.facebook.com/">
+            <a href="https://www.facebook.com/share/124B6kiYGDG/?mibextid=LQQJ4d ">
               <i className="fa-brands fa-square-facebook"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/">
+            <a href="https://www.linkedin.com/in/soban-khan-6b571b242/">
               <i className="fa-brands fa-linkedin"></i>
             </a>
           </li>
