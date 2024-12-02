@@ -1,0 +1,36 @@
+.videos-main{
+  margin-top: 4rem;
+}
+
+.videos-main h1{
+    text-align: left;
+}
+
+.video-container {
+    display: flex;
+    align-items: center;
+    margin: 20px auto;
+    gap: 50px;
+  }
+  
+  iframe {
+    width: 40%;
+    height: auto;
+    aspect-ratio: 9/16;
+    border: none;
+}
+
+@media screen and (max-width:768px) {
+  .videos-main{
+    margin-top: 2rem;
+  }
+
+  .videos-main h1{
+    text-align: center;
+}
+
+  .video-container{
+    flex-direction: column;
+  }
+}
+  
