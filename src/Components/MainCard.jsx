@@ -36,7 +36,7 @@ const MainCard = () => {
           <div className="place">Freelancer</div>
 
           <div className="content">
-            <p>Video Editor and <br /> Front-end developer</p>
+            <p>Video Editor</p>
             <div className="buttons" role="group">
               <div className="btn">
                 <a href="https://www.youtube.com/channel/UCdZsiyVhcb_S2xyESHm3gBw">
