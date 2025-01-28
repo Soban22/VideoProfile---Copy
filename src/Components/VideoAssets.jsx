@@ -20,7 +20,7 @@ const VideoAssets = () => {
       <iframe
         width="600"
         height="100"
-        src="https://youtube.com/embed/vb9kEctrLkk"
+        src="https://youtube.com/embed/D_LMF02oKdg?si=i-GmGr6yrKLLsI6I"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
@@ -53,7 +53,7 @@ const VideoAssets = () => {
       <iframe
         width="600"
         height="100"
-        src="https://youtube.com/embed/D_LMF02oKdg?si=i-GmGr6yrKLLsI6I"
+        src="https://youtube.com/embed/vb9kEctrLkk"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
