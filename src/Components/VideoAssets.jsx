@@ -11,6 +11,38 @@ const VideoAssets = () => {
       <iframe
         width="600"
         height="100"
+        src="https://youtube.com/embed/_scfZPp6hdY"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+
+      <iframe
+        width="600"
+        height="100"
+        src="https://youtube.com/embed/uboHJr4t0F8"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+
+
+      <iframe
+        width="600"
+        height="100"
+        src="https://youtube.com/embed/pJtD69jJI-k"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+    
+      </div>
+
+      <div className='video-container'>
+
+      <iframe
+        width="600"
+        height="100"
         src="https://youtube.com/embed/X-Qy1skMmm8?si=hXhS-3FlXkmuVTqV"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
